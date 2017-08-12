@@ -1,6 +1,0 @@
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\bin\Debug\LINQ_LIST_EXAMPLES.exe.config
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\bin\Debug\LINQ_LIST_EXAMPLES.exe
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\bin\Debug\LINQ_LIST_EXAMPLES.pdb
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\obj\Debug\LINQ_LIST_EXAMPLES.csprojResolveAssemblyReference.cache
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\obj\Debug\LINQ_LIST_EXAMPLES.exe
-c:\users\uğur\documents\visual studio 2015\Projects\LINQ_LIST_EXAMPLES\LINQ_LIST_EXAMPLES\obj\Debug\LINQ_LIST_EXAMPLES.pdb
