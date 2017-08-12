@@ -44,7 +44,7 @@ namespace LINQ_LIST_EXAMPLES
             var sonuc =
                 from x in sinif
                 where x.notOrtalamasi > 30
-                orderby x.isim//LİNQ KUTUPHANESİNDEN BİR SQUERY YAZDIM
+                orderby x.isim//LİNQ KUTUPHANESİNDEN BİR QUERY YAZDIM
                 select x;
             Console.WriteLine("--------------------------------");
             foreach (var item in sonuc)
